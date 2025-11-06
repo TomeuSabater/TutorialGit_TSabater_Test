@@ -7,7 +7,7 @@ public class HolaTomeu {
 
 		final  String EMPRESA = "CESUR";
 		
-		String nombre = "Tomeu";
+		String nombre = "Tomeu Sabater";
 		String modulo = "Entornos de Desarrollo"; 
 		String titulacion = "DAM/DAW"; 
 				
